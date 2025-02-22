@@ -3,5 +3,6 @@ pytest
 pytest-cov
 pre-commit
 requests
-sqlmodel
 psycopg2-binary==2.9.9
+pydantic
+SQLAlchemy
